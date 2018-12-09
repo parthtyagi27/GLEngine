@@ -1,2 +1,2 @@
-# PongGL
-Pong written in Java using LWJGL as an OpenGL binding
+# GLEngine
+OpenGL Engine written in Java using LWJGL as the OpenGL bindings
